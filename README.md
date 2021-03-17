@@ -7,15 +7,7 @@ my personal website
 <title> Sawsan </title>
 <link rel="stylesheet"  type="text/css" href="style.css">
 <style>
-h1{
-font-size: 300%;
-}
- p1{
- background-color: pink;
- font-family:  courier ;
- }
-  
-body {text-align: center}
+
 
 .responsive {
   width: 100%;
